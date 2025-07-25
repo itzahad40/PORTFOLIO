@@ -2,10 +2,6 @@
 
 This is my personal developer portfolio website, built using HTML, CSS, and JavaScript. It showcases my education, skills, projects, and contact information in a clean, dark-themed layout inspired by modern UI/UX principles.
 
-## 🌐 Live Preview
-[Click here to view the live site](https://your-username.github.io/ahad-ali-portfolio)  
-*(Replace with your actual GitHub Pages link)*
-
 ## 🔧 Tech Stack
 - HTML5
 - CSS3 (Flexbox + Responsive Design)
